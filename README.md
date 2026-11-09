@@ -2,8 +2,7 @@
 Assignment 2 GitHub Collaboration and Deployment
 
 Assignment 2
-[paste badge markdown here]
-
+[![Deploy to GitHub Pages](https://github.com/edpowell1967-crypto/assignment2/actions/workflows/deploy.yml/badge.svg)](https://github.com/edpowell1967-crypto/assignment2/actions/workflows/deploy.yml)
 GitHub Collaboration and Deployment Project
 
 
