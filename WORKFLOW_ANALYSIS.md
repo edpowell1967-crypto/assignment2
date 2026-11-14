@@ -30,7 +30,7 @@ The environment configuration prepares GitHub Pages and deployment settings so t
 
 5\. How does this automated deployment improve reliability compared to manual deployment?
 
-Automated deployment ensures validation checks are performed consistently before deployment, reducing human errors and improving reliability.
+Automated deployment ensures validation checks are performed consistently before deployment, reducing human errors thereby improving reliability.
 
 
 
